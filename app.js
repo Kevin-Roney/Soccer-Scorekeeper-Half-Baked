@@ -1,5 +1,5 @@
 // import functions and grab DOM elements
-import { renderGame, renderTeam } from './render-utils.js';
+import { renderGame } from './render-utils.js';
 const currentGameEl = document.getElementById('current-game-container');
 const pastGamesEl = document.getElementById('past-games-container');
 
